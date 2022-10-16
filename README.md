@@ -39,7 +39,7 @@ Make sure you have downloaded the **ImageNet** dataset first.
 To clone and install this repository run the following commands:
 
     git clone https://github.com/omerb01/TransBoost.git
-    cd TransBoost
+    cd transboost
     pip install -r requirements.txt
 
 To run TransBoost:
@@ -73,7 +73,7 @@ To run TransBoost:
       --lamda LAMDA         TransBoost loss hyperparameter
       --test-only           run testing only
 
-For example, to reproduce our result on **ResNet50**, run:
+For example, to reproduce our result on **ResNet50** in **ImageNet**, run:
 
     python transboost.py --gpus 4 --data-dir /path-to-data-folder/ImageNet --model resnet50
 
