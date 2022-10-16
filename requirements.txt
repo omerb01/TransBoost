@@ -1,0 +1,5 @@
+torch
+torchvision
+pytorch-lightning==1.5.10
+lightning-bolts
+wandb
