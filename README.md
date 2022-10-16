@@ -13,7 +13,12 @@ Additionally we show that TransBoost is effective on a wide variety of image cla
 
 If you find our paper/code helpful, please cite our paper:
 
-    citation
+    @article{belhasin2022transboost,
+        title={TransBoost: Improving the Best ImageNet Performance using Deep Transduction},
+        author={Belhasin, Omer and Bar-Shalom, Guy and El-Yaniv, Ran},
+        journal={arXiv preprint arXiv:2205.13331},
+        year={2022}
+    }
 
 ## Results
 
