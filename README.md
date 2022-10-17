@@ -39,7 +39,7 @@ Make sure you have downloaded the **ImageNet** dataset first.
 To clone and install this repository run the following commands:
 
     git clone https://github.com/omerb01/TransBoost.git
-    cd transboost
+    cd TransBoost
     pip install -r requirements.txt
 
 To run TransBoost:
