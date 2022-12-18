@@ -42,7 +42,7 @@ To clone and install this repository run the following commands:
     cd TransBoost
     pip install -r requirements.txt
 
-To run TransBoost:
+To run TransBoost (train & test):
 
     usage: transboost.py [-h] [--dev DEV] --gpus GPUS [--resume RESUME] --data-dir DATA_DIR [--num-workers NUM_WORKERS] [--wandb]
                      [--gpu-monitor] [--data DATA] --model MODEL [--seed SEED] [--max-epochs MAX_EPOCHS]
