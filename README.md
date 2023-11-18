@@ -2,6 +2,9 @@
 
 This repository contains the official implementation of our paper: [TransBoost: Improving the Best ImageNet Performance using Deep Transduction](https://arxiv.org/abs/2205.13331) (NeurIPS 2022).
 
+Recorded lecture about our paper:
+https://youtu.be/IkAlbgZGH_I
+
 **TLDR**:
 We deal with *deep transductive learning*, and propose *TransBoost* as a procedure for fine-tuning any deep neural model to improve its performance on any (unlabeled) test set provided at training time. TransBoost is inspired by a large margin principle and is efficient and simple to use.
 Our method significantly improves the ImageNet classification performance on a wide range of architectures, such as ResNets, MobileNetV3-L, EfficientNetB0, ViT-S, and ConvNext-T, leading to state-of-the-art transductive performance.
